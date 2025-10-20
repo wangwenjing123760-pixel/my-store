@@ -18,18 +18,7 @@ const products = [
   { id: 16, name: "Birthday Art Standee", price: 28, img: "images/Hairband.png", category: "Official Merch" },
   { id: 17, name: "Birthday Card Set", price: 10, img: "images/Birthday card set.png", category: "Official Merch" },
   { id: 18, name: "Birthday Plushie Keychain", price: 28, img: "images/Birthday plushie.png", category: "Official Merch" },
-  { id: 19, name: "Birthday Arcylic Photocard", price: 10, img: "images/Birthday Arcylic Photocard.png", category: "Official Merch" },
-  { id: 20, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 21, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 22, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 23, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 24, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 25, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 26, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 27, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 28, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 29, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" },
-  { id: 30, name: "Birthday", price: 30, img: "images/.png", category: "Official Merch" }
+  { id: 19, name: "Birthday Arcylic Photocard", price: 10, img: "images/Birthday Arcylic Photocard.png", category: "Official Merch" }
 ];
 
 
